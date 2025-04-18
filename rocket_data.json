@@ -1,0 +1,86 @@
+[
+  {
+    "model": "FALCON 9 - STD",
+    "fuel": 300,
+    "mass": 500,
+    "angle": 45,
+    "time": 5
+  },
+  {
+    "model": "FALCON 9 - HIGH ANGLE",
+    "fuel": 300,
+    "mass": 500,
+    "angle": 70,
+    "time": 5
+  },
+  {
+    "model": "FALCON 9 - LOW ANGLE",
+    "fuel": 300,
+    "mass": 500,
+    "angle": 20,
+    "time": 5
+  },
+  {
+    "model": "FALCON 9 - LOW MASS",
+    "fuel": 300,
+    "mass": 400,
+    "angle": 45,
+    "time": 5
+  },
+  {
+    "model": "FALCON 9 - HIGH MASS",
+    "fuel": 300,
+    "mass": 600,
+    "angle": 45,
+    "time": 5
+  },
+  {
+    "model": "ATLAS V - STD",
+    "fuel": 250,
+    "mass": 480,
+    "angle": 50,
+    "time": 5
+  },
+  {
+    "model": "ATLAS V - HIGH ANGLE",
+    "fuel": 250,
+    "mass": 480,
+    "angle": 65,
+    "time": 5
+  },
+  {
+    "model": "ATLAS V - LOW ANGLE",
+    "fuel": 250,
+    "mass": 480,
+    "angle": 30,
+    "time": 5
+  },
+  {
+    "model": "NEW SHEPARD - STD",
+    "fuel": 200,
+    "mass": 300,
+    "angle": 35,
+    "time": 5
+  },
+  {
+    "model": "NEW SHEPARD - LIGHT",
+    "fuel": 200,
+    "mass": 250,
+    "angle": 35,
+    "time": 5
+  },
+  {
+    "model": "ROCKET LAB - STD",
+    "fuel": 150,
+    "mass": 200,
+    "angle": 40,
+    "time": 5
+  },
+  {
+    "model": "ROCKET LAB - MAX FUEL",
+    "fuel": 400,
+    "mass": 500,
+    "angle": 40,
+    "time": 5
+  }
+]
